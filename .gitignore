@@ -1,0 +1,83 @@
+# Ignore Altium PCB Project backup files
+*.PcbDoc.Zip
+*.SchDoc.Zip
+*.BomDoc.Zip
+*.PrjPcb.Zip
+*.MbaDoc.Zip
+*.PrjMbd.Zip
+*.MbsDoc.Zip
+*.LOG
+*.SchDocPreview
+*.PcbDocPreview
+*.BomDocPreview
+
+# Ignore Altium Library backup files
+*.SchLib.Zip
+*.PcbLib.Zip
+*.LibPkg.Zip
+*.PvLib.Zip
+*.OutJob.Zip
+*.PCBDwf.Zip
+*.pas.Zip
+*.pasPreview
+*.PrjScr.Zip
+~$Altium Parts.xlsx
+
+# Ignore script config files that are unique to user's computer
+*.ini
+
+# Ignore Altium "Backups" folder
+Configuration/Backups/
+
+# Ignore PCB project outputs
+*.WAS
+*.drc
+*.APR_LIB
+*.EXTREP
+*.LEP
+*.REP
+*.gbr
+
+# Ignore generated build files from VS Code (embedded code)
+build/
+cmake-build-*/
+out/
+.cache/
+compile_commands.json
+CMakeUserPresets.json
+
+# Ignore generated build files from QT (GUI)
+build*/
+dist/
+AppDir/
+*.user
+*.user.*
+CMakeLists.txt.user*
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+.qt/
+*_autogen/
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+
+# Keep pre-built apps
+!releases/
+!releases/**
+
+
+# Ignore Python tools
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ignore files from editors / OS
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

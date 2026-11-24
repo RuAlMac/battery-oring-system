@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Battery ORing Monitor
+Comment=Configure and monitor the Battery ORing & Monitoring V2 board stack
+Exec=BatteryTool
+Icon=batterytool
+Categories=Development;Electronics;
+Terminal=false

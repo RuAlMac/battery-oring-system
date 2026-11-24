@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ORing Board V1.PrjPcb]
+   Generated File[Layout.TXT]
+   Generated File[Layout.LDP]
+   Generated File[Layout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:16:21 On 10/20/2026

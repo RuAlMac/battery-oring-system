@@ -1,0 +1,2 @@
+C:/Users/russe/Repositories/MIL/SubjuGator9/Battery-ORing-Monitoring/V2/CODE/gui/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/dist/BatteryTool/./BatteryTool.exe
+C:/Users/russe/Repositories/MIL/SubjuGator9/Battery-ORing-Monitoring/V2/CODE/gui/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/dist/BatteryTool/./README.md
